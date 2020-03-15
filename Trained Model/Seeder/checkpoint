@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/User/Documents/basketball/Seeder/seeder.ckpt"
+all_model_checkpoint_paths: "C:/Users/User/Documents/basketball/Seeder/seeder.ckpt"
